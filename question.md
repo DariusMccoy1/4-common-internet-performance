@@ -5,6 +5,7 @@ Bandwidth refers to the maximum amount of data that can be transferred over an i
 Impact: Slow loading times, buffering during video streaming, and delays in interactive applications. For users with multiple devices connected to the same network, bandwidth can become quickly consumed, worsening overall performance.
 
 Guiding questions:
+
 1.) How do browsers handle large graphics or slow-loading pages?
 Answer{Browsers render parts of a webpage as they are downloaded instead of waiting for the entire page to load. This allows users to see and interact with content sooner.
 Lazy Loading: Large graphics or media files may not be loaded immediately. Instead, they are loaded only when they come into the user's viewport, saving bandwidth and improving initial page load times.}
