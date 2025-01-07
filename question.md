@@ -4,6 +4,7 @@ Overview
 The type of internet connection (e.g., fiber, cable, DSL, satellite) directly impacts speed and reliability. Fiber-optic connections offer the fastest speeds, while DSL and satellite are slower and often suffer from higher latency. Bandwidth, the maximum amount of data transferable over an internet connection, is another key factor. Limited bandwidth can lead to struggles with handling multiple tasks (e.g., streaming, browsing, or downloading) simultaneously.
 
 Impact:
+
 Limited internet performance can manifest as slow loading times, buffering during video streaming, and delays in interactive applications. In homes with multiple devices connected to the same network, bandwidth consumption can quickly degrade overall performance.
 
 Real-World Examples:
