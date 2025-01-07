@@ -1,29 +1,41 @@
-Common Internet Performance Issues Statement of Action:
+Common Internet Performance Issues: Statement of Action
+Overview
 
-The type of internet connection (e.g., fiber, cable, DSL, satellite) determines speed and reliability. Fiber-optic provides the fastest speeds, while DSL and satellite are slower and may have higher latency.
-Bandwidth refers to the maximum amount of data that can be transferred over an internet connection in a given period. If a connection has limited bandwidth, it may struggle to handle multiple tasks (like streaming, browsing, or downloading files) simultaneously.
+The type of internet connection (e.g., fiber, cable, DSL, satellite) directly impacts speed and reliability. Fiber-optic connections offer the fastest speeds, while DSL and satellite are slower and often suffer from higher latency. Bandwidth, the maximum amount of data transferable over an internet connection, is another key factor. Limited bandwidth can lead to struggles with handling multiple tasks (e.g., streaming, browsing, or downloading) simultaneously.
 
-Impact: Slow loading times, buffering during video streaming, and delays in interactive applications. For users with multiple devices connected to the same network, bandwidth can become quickly consumed, worsening overall performance.
+Impact:
+Limited internet performance can manifest as slow loading times, buffering during video streaming, and delays in interactive applications. In homes with multiple devices connected to the same network, bandwidth consumption can quickly degrade overall performance.
 
-Real World Examples:
+Real-World Examples:
 
-When you’re searching the Internet for anything, it sometimes glitches or runs slowly, as shown in some examples. The Internet can occasionally kick you out of a page and reset the progress of other pages you had open at the same time. It can also crash, closing the app you’re using to access it.
-Slow Internet isn’t new, but it can be very annoying, even when you have good Wi-Fi. The Internet may still run slowly by opening new tabs sluggishly, delaying user input, and more. Despite advancements, there are still problems you can encounter while using the Internet.
+1.) Glitches or slow response times during web searches.
 
-Guiding questions:
+2.) Being unexpectedly disconnected from a webpage, resetting progress on others.
+
+3.) Crashes that close the app being used to access the internet.
+
+4.) Sluggish performance, including delays in opening new tabs or responding to user input.
+
+Despite advancements, internet performance issues remain a persistent challenge, even with strong Wi-Fi signals.
+
+Guiding Questions and Answers:
 
 1.) How do browsers handle large graphics or slow-loading pages?
-Answer{Browsers render parts of a webpage as they are downloaded instead of waiting for the entire page to load. This allows users to see and interact with content sooner.
-Lazy Loading: Large graphics or media files may not be loaded immediately. Instead, they are loaded only when they come into the user's viewport, saving bandwidth and improving initial page load times.}
+
+Rendering: Browsers render portions of a webpage as they download, allowing users to interact with content sooner.
+Lazy Loading: Large graphics or media are only loaded when they come into the user's viewport, saving bandwidth and improving load times.
 
 2.) How do web servers influence performance, such as through optimization or cloud services?
-Answer{Caching: Web servers like Nginx or Apache can cache frequently accessed content (e.g., HTML, images, or database queries). This reduces the load on the server and speeds up response times.
-Load Balancing: By distributing incoming requests across multiple servers, web servers ensure no single server is overwhelmed, maintaining smooth performance.}
 
-3.) What impact does IoT (e.g., multiple devices using the same Wi-Fi) have on performances?
-Answer{High-bandwidth Devices: Smart cameras, video doorbells, and streaming devices consume significant bandwidth, potentially reducing speed for other users.
-Cumulative Impact: Even low-bandwidth devices like sensors or smart lights can create performance issues when deployed in large numbers.}
+Caching: Servers like Nginx or Apache cache frequently accessed content (e.g., HTML, images), reducing server load and speeding up responses.
+Load Balancing: Distributing incoming requests across multiple servers ensures no single server is overwhelmed, maintaining smooth performance.
 
-4.) How do protocols like IPv6 or HTTP improve performance over time?
-Answer{Scalability: IPv6 provides a virtually unlimited address space, removing the need for techniques like NAT (Network Address Translation). This reduces complexity and latency caused by translating private to public IPs.
-Direct Communication: Devices can have unique global IP addresses, enabling faster peer-to-peer communication and smoother IoT integration.}
+3.) What impact does IoT (e.g., multiple devices using the same Wi-Fi) have on performance?
+
+High-Bandwidth Devices: Devices like smart cameras and streaming services consume significant bandwidth, reducing speeds for others.
+Cumulative Impact: Even low-bandwidth devices, such as sensors or smart lights, can cause performance issues when deployed in large numbers.
+
+3.) How do protocols like IPv6 or HTTP improve performance over time?
+
+IPv6 Scalability: Provides a virtually unlimited address space, eliminating the need for NAT (Network Address Translation), reducing latency.
+Direct Communication: Unique global IP addresses enable faster peer-to-peer communication and smoother IoT integration.
