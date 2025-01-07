@@ -6,7 +6,9 @@ Guiding Questions:
 How do browsers handle large graphics or slow-loading pages?
 Answer{Browsers render parts of a webpage as they are downloaded instead of waiting for the entire page to load. This allows users to see and interact with content sooner.
 Lazy Loading: Large graphics or media files may not be loaded immediately. Instead, they are loaded only when they come into the user's viewport, saving bandwidth and improving initial page load times.}
+Browsers render parts of a webpage as they are downloaded instead of waiting for the entire page to load. This approach enables users to see and interact with content (like text or buttons) while other elements, such as
 
+images or videos, are still loading.
 How do web servers influence performance, such as through optimization or cloud services?
 Answer{Caching: Web servers like Nginx or Apache can cache frequently accessed content (e.g., HTML, images, or database queries). This reduces the load on the server and speeds up response times.
 Load Balancing: By distributing incoming requests across multiple servers, web servers ensure no single server is overwhelmed, maintaining smooth performance.}
