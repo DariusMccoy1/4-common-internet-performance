@@ -21,3 +21,4 @@ Cumulative Impact: Even low-bandwidth devices like sensors or smart lights can c
 4.) How do protocols like IPv6 or HTTP improve performance over time?
 Answer{Scalability: IPv6 provides a virtually unlimited address space, removing the need for techniques like NAT (Network Address Translation). This reduces complexity and latency caused by translating private to public IPs.
 Direct Communication: Devices can have unique global IP addresses, enabling faster peer-to-peer communication and smoother IoT integration.}
+https://docs.google.com/document/d/1Y9exDFOb8GVC05TXRV0BjaKIXWp6ek_xBlB1dUXqBdQ/edit?usp=sharing
