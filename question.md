@@ -1,5 +1,6 @@
 Common Internet Performance Issues Statement of Action:
 Describe common internet performance issues, such as bandwidth, internet connection types, pages loading slowly, resolution, and size of graphics. {Explain how these issues impact a user's experience when using a website or application.}
+The type of internet connection (e.g., fiber, cable, DSL, satellite) determines speed and reliability. Fiber-optic provides the fastest speeds, while DSL and satellite are slower and may have higher latency.
 
 Guiding Questions:
 How do browsers handle large graphics or slow-loading pages?
